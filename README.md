@@ -3,6 +3,14 @@
 
 Node.js,Express,NestJS,React,Next.js,C#（AtCoderで競プロ)等を触ります。
 
+### リポジトリ
+- pomodoro.c：ポモドーロテクニック（集中法）を気軽に楽しめるアプリ
+- brainfxxk.c：brainfxxkという既存の言語の文字列を操作して遊ぶネタアプリ
+- crypt.c：文字列を暗号化したり復号したりして遊ぶネタアプリ
+- doc：各種文書
+- nest-official-doc：NestJSの公式ドキュメントを和訳　プルリクお待ちしております
+- 他：作成断念した物等
+
 ### リンク
 - [zenn](https://zenn.dev/kisihara_c/books)（ドキュメント）
 - [crypt.c(heroku)](https://crypt-c.herokuapp.com/)
