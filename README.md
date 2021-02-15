@@ -1,4 +1,12 @@
-### Hi there 👋
+### About kisihara.c
+いつもありがとうございます。
+
+Node.js,Express,NestJS,React,Next.js,C#（AtCoderで競プロ)等を触ります。
+
+### リンク
+- [zenn](https://zenn.dev/kisihara_c/books)（ドキュメント）
+- [crypt.c(heroku)](https://crypt-c.herokuapp.com/)
+
 
 <!--
 **kisihara-c/kisihara-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
