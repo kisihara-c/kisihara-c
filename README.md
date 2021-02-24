@@ -6,7 +6,6 @@ Node.js,Express,NestJS,React,Next.js,C#（AtCoderで競プロ)等を触ります
 ### リポジトリ
 - vrcircledaysdreams.c：（制作中）SNS VRChatの定期イベントカレンダーサービス
 - pomodoro.c：（共同制作中）ポモドーロテクニック（集中法）を気軽に楽しめるアプリ
-- brainfxxk.c：brainfxxkという既存の言語の文字列を操作して遊ぶネタアプリ
 - crypt.c：文字列を暗号化したり復号したりして遊ぶネタアプリ
 - doc：各種文書
 - nest-official-doc：NestJSの公式ドキュメントを和訳　プルリクお待ちしております
