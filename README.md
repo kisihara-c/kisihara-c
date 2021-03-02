@@ -9,7 +9,7 @@ Node.js,Express,NestJS,React,Next.js,C#（AtCoderで競プロ)等を触ります
 - crypt.c：文字列を暗号化したり復号したりして遊ぶネタアプリ
 - doc：各種文書
 - nest-official-doc：NestJSの公式ドキュメントを和訳　プルリクお待ちしております
-- express-jp-commented：expressのコードを一から読んで日本語のコメントをつけています
+- express-jp-commented：サーバーサイドフレームワークExpressのコードを一から読んで日本語のコメントをつけています
 - 他：作成断念した物等
 
 ### リンク
