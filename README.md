@@ -1,7 +1,7 @@
 ### About kisihara.c
 いつもありがとうございます。
 
-Node.js,Express,NestJS,React,Next.js,C#（AtCoderで競プロ)等を触ります。
+Node.js,Express,NestJS,React,Next.js,PostgreSQL,Hasura,Apollo,C#（AtCoderで競プロ)等を触ります。
 
 ### リポジトリ
 - vrcircledaysdreams.c：（プロトタイプ完成）SNS VRChatの定期イベントを登録できる、誰でも使えるカレンダーサービス
