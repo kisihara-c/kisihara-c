@@ -13,7 +13,6 @@ Node.js,Express,NestJS,React,Next.js,PostgreSQL,Hasura,Apollo,C#（AtCoderで競
 - 他：作成断念した物等
 
 ### リンク
-- [VRCircleDaysDreams.c](https://vrcircledaysdreams-c.vercel.app/)
 - [pomodoro.c(vercel,AllDeisgnVer)](https://pomodoro-c-all-design.vercel.app/)
 - [pomodoro.c(vercel,collaboration)](https://pomodoro-c.vercel.app/)
 - [zenn](https://zenn.dev/kisihara_c/books)（ドキュメント）
