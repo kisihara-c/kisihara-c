@@ -16,6 +16,7 @@ Node.js,Ruby on Rails,Express,React,Next.js,PostgreSQL,Hasura,C#（AtCoderで競
 - [pomodoro.c(vercel,AllDeisgnVer)](https://pomodoro-c-all-design.vercel.app/)
 - [pomodoro.c(vercel,collaboration)](https://pomodoro-c.vercel.app/)
 - [zenn](https://zenn.dev/kisihara_c/books)（ドキュメント）
+- [NestJS 公式ドキュメントver7日本語訳](https://zenn.dev/kisihara_c/books/nest-officialdoc-jp)（nest-official-docのzenn版）
 
 
 <!--
