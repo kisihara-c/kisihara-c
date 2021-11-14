@@ -4,8 +4,8 @@
 Node.js,Ruby on Rails,Express,React,Next.js,PostgreSQL,Hasura,C#（AtCoderで競プロ)等を触ります。
 
 ### リポジトリ
-- mailrail：指定日時でメールを送信してくれるリマインダーアプリ（rails）
-- mailrail-front：mailrailのAPIを叩くフロントエンド（Next.js / Chakra UI）
+- mailrail：指定日時でメールを送信してくれるリマインダーアプリ（Ruby on Rails）
+- mailrail-front：mailrailのAPIを叩くフロントエンド（Next.js / Chakra UI + Ruby on Rails）
 - nest-official-doc：NestJSの公式ドキュメントを和訳　プルリクお待ちしております
 - express-jp-commented：サーバーサイドフレームワークExpressのコードを一から読んで日本語のコメントをつけています
 - vrcircledaysdreams.c：（プロトタイプ完成）SNS VRChatの定期イベントを登録できるカレンダーサービス（Next.js / Hasura）
