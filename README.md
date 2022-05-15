@@ -1,14 +1,14 @@
 ### About kisihara.c
 いつもありがとうございます。
 
-Node.js,Ruby on Rails,Express,React,Next.js,PostgreSQL,Hasura,C#（AtCoderで競プロ)等を触ります。
+Node.js,Rails,Express,Next.js,PostgreSQL,Hasura,C#（競プロ),Python等で遊んでいます。
+
+業務で触っているのはRails（,Unity）です。
 
 ### リポジトリ
 - mailrail：指定日時でメールを送信してくれるリマインダーアプリ（Ruby on Rails）
 - mailrail-front：mailrailのAPIを叩くフロントエンド（Next.js / Chakra UI + Ruby on Rails）
 - nest-official-doc：NestJSの公式ドキュメントを和訳　プルリクお待ちしております
-- express-jp-commented：サーバーサイドフレームワークExpressのコードを一から読んで日本語のコメントをつけています
-- vrcircledaysdreams.c：（プロトタイプ完成）SNS VRChatの定期イベントを登録できるカレンダーサービス（Next.js / Hasura）
 - pomodoro.c：（共同制作）ポモドーロテクニック（集中法）を気軽に楽しめるアプリ（Next.js）
 - 他
 
@@ -17,7 +17,7 @@ Node.js,Ruby on Rails,Express,React,Next.js,PostgreSQL,Hasura,C#（AtCoderで競
 - [pomodoro.c(vercel,collaboration)](https://pomodoro-c.vercel.app/)
 - [zenn](https://zenn.dev/kisihara_c/books)（ドキュメント）
 - [NestJS 公式ドキュメントver7日本語訳](https://zenn.dev/kisihara_c/books/nest-officialdoc-jp)（nest-official-docのzenn版）
-- [AtCoderプロフィール](https://atcoder.jp/users/kisihara_c)
+- [AtCoderプロフィール](https://atcoder.jp/users/kisihara_c) 緑色です
 
 
 <!--
