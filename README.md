@@ -1,23 +1,19 @@
 ### About kisihara.c
-いつもありがとうございます。
+いつもありがとうございます。　更新:2023-07
 
-Node.js,Rails,Express,Next.js,PostgreSQL,Hasura,C#（競プロ),Python等で遊んでいます。
+Go,Node.js,Express,Next.js,Rails,PostgreSQL,Hasura,C#（[AtCoder緑](https://atcoder.jp/users/kisihara_c) ),Python等で遊んでいます。
 
-業務で触っているのはRails（,Unity）です。
+いま業務で触っているのはRails,MySQL,GCP（,Unity）です。
+
+興味があるものを興味がある順でざっと挙げると、サーバー、サーバーパフォーマンス、ゲーム、コンピューターサイエンス、フロントエンド、サーバー開発に伴うインフラです。
 
 ### リポジトリ
-- mailrail：指定日時でメールを送信してくれるリマインダーアプリ（Ruby on Rails）
-- mailrail-front：mailrailのAPIを叩くフロントエンド（Next.js / Chakra UI + Ruby on Rails）
-- nest-official-doc：NestJSの公式ドキュメントを和訳　プルリクお待ちしております
-- pomodoro.c：（共同制作）ポモドーロテクニック（集中法）を気軽に楽しめるアプリ（Next.js）
+- mailrail,mailrail-front：素振りで作った、指定日時でメールを送信してくれるリマインダーアプリです（Next.js / Chakra UI + Ruby on Rails）
+- nest-official-doc：NestJSの公式ドキュメントを和訳しました　プルリクお待ちしております
 - 他
 
 ### リンク
-- [pomodoro.c(vercel,AllDeisgnVer)](https://pomodoro-c-all-design.vercel.app/)
-- [pomodoro.c(vercel,collaboration)](https://pomodoro-c.vercel.app/)
 - [zenn](https://zenn.dev/kisihara_c/books)（ドキュメント）
-- [NestJS 公式ドキュメントver7日本語訳](https://zenn.dev/kisihara_c/books/nest-officialdoc-jp)（nest-official-docのzenn版）
-- [AtCoderプロフィール](https://atcoder.jp/users/kisihara_c) 緑色です
 
 
 <!--
