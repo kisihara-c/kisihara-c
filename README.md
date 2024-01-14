@@ -1,16 +1,15 @@
 ### About kisihara.c
-いつもありがとうございます。　更新:2023-07
+いつもありがとうございます。　更新:2024-01
 
-Go,Node.js,Express,Next.js,Rails,PostgreSQL,Hasura,C#（[AtCoder緑](https://atcoder.jp/users/kisihara_c) ),Python等で遊んでいます。
+Go,Node.js,Next.js,PostgreSQL,C#（[AtCoder緑](https://atcoder.jp/users/kisihara_c) ),Unity,Python等で遊んでいます。
 
-いま業務で触っているのはRails,MySQL,GCP（,Unity）です。
+いま業務で触っているのはGo,React,AWS(,Terraform)です。
 
 興味があるものを興味がある順でざっと挙げると、サーバー、サーバーパフォーマンス、ゲーム、コンピューターサイエンス、フロントエンド、サーバー開発に伴うインフラです。
 
 ### リポジトリ
-- mailrail,mailrail-front：素振りで作った、指定日時でメールを送信してくれるリマインダーアプリです（Next.js / Chakra UI + Ruby on Rails）
 - nest-official-doc：NestJSの公式ドキュメントを和訳しました　プルリクお待ちしております
-- 他
+- ほか、主に実験と素振りが多いです
 
 ### リンク
 - [zenn](https://zenn.dev/kisihara_c/books)（ドキュメント）
